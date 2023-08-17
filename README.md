@@ -1,7 +1,8 @@
-## I am a software development student working on how to learn python.
+## I am a software development student at Anthis Career Academy
 
-### My Expirence 
+### My Coding Expirence 
 - I have went through a cs class in high school
 - Mostly know Javascript as of right now
-- Learned a little bit of HTML/CSS
-- Learned a little bit of C#
+- Learned a little bit of HTML/CSS, C#, and Python
+
+I am looking forward to see what I'll learn in this class
